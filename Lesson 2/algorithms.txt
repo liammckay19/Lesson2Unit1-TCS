@@ -1,0 +1,46 @@
+Pizza the Algorithm:
+
+(assuming ingredients have been bought)
+1. mix eggs water flour
+2. knead dough
+3. roll dough out to circle
+4. pinch edges of dough to make a small wall around the circle
+5. spread tomato sauce
+6. add mozzarella
+7. add basil
+8. put in oven at super hot (800 C)
+
+
+An algorithm is a set of sub-problems that are each solvable by a line of code
+and as a whole come together to solve a larger problem.
+
+Algorithms are presented as pseudocode
+
+
+
+
+
+
+
+
+
+
+Algorithm for translating Celsius to Fahrenheit
+
+1) Get a temperature input in degrees celsius from the user.
+2) Use our formula to calculate fahrenheit temperature.
+3) Tell the user the temperature in degrees fahrenheit.
+
+
+
+This breaks our original problem into 3 smaller problems. We could
+further break each of these into even more simple problems.
+
+1a) Get input from user
+1b) Evaluate input as number
+1c) Save number into a variable
+2a) Calculate fahrenheit temperature with given formula 2b) Save fahrenheit temperature into a variable
+3a) Print message explaining our calculation
+3b) Print value of fahrenheit variable
+
+
